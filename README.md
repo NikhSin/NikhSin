@@ -22,7 +22,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 <p align="center">
 <a href="https://www.linkedin.com/in/nikhil-singh-5b0072204" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nikhil-singh-5b0072204" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/itsnikhil0786" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@itsnikhil0786" height="25" width="25" /></a>&nbsp;&nbsp;
-<a href="https://dev.to/NikSinbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="25" width="25" /></a> &nbsp;&nbsp;
+<a href="https://dev.to/nikhsin" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="#" height="25" width="25" /></a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/nikhil7825singh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikhil7825singh" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
