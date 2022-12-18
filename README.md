@@ -21,11 +21,12 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 
 
 ### Some Stats About Nikhil (Public Only)
+<p align="center">
 <a href="https://git.io/streak-stats" rel="nofollow"><img src="https://camo.githubusercontent.com/50ba3a1a05eb4971f37b351eef5fed83fa1e97a46ababf886e4918161e8efe76/687474703a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d7361727468616b30303038267468656d653d6e656f6e2d6461726b" alt="GitHub Streak" data-canonical-src="http://github-readme-streak-stats.herokuapp.com?user=NikhSin8&amp;theme=neon-dark" style="max-width: 100%;"></a>
 <p align="center" >
 <img alt="nikhil's github stats" src="https://github-readme-stats.vercel.app/api?username=NikhSin&show_icons=true&theme=merko"  > </p>
+</p>
 
-<a href="https://sourcerer.io/NikhSin">Check more about me here 🌟 </a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nikhil-singh-5b0072204" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="nikhil-singh-5b0072204" height="25" width="25" /></a>&nbsp;&nbsp;
