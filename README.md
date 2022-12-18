@@ -35,7 +35,9 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 <a href="https://www.instagram.com/nikhil7825singh" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nikhil7825singh" height="25" width="25" /></a>&nbsp;&nbsp;
 </p>
 
-
+<div align="center" dir="auto">
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/92647e6a89c2a4bcd598b72cf6c312758de0844ebc4ceb6f4e5c7c4e34cf6670/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7361727468616b30303038267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/92647e6a89c2a4bcd598b72cf6c312758de0844ebc4ceb6f4e5c7c4e34cf6670/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d7361727468616b30303038267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak0008&amp;theme=radical" style="max-width: 100%;"></a></p>
+</div>
 
 ⭐️ From [Nikhil](https://github.com/NikSin)
 <h3 align="left">Languages and Tools:</h3>
