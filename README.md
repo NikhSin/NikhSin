@@ -6,11 +6,13 @@
 
 I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a Java backend developer👨‍🎓
 
-- 🔭 I’m currently working on my Skill.  
-- 🌱 I’m currently learning about JAVA Backend...
+- 🔭 I’m currently working on my Skill. 
+- 💻 All of my pojects are available at <a href="https://NikhSin.github.io" rel="nofollow">Portfolio</a> 
+- 🌱 I’m currently learning about Full-stack JAVA Developer Course from Masai School.
 - 💬 Ask me about anything and everything 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsnikhil0786@gmail.com)](mailto:itsnikhil0786@gmail.com)
-- ⚡ Fun fact: success not understood excuses.... ! 
+- ⚡ Fun fact: Success not understood excuses.... ! 
+- ⚽️ I Like to play Football and Cookng.
 
 
 ### Some Stats About Nikhil (Public Only)
