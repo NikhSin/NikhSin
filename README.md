@@ -1,4 +1,4 @@
-<p align="Center" ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fdenistanjingyu%2Fdenistanjingyu&psig=AOvVaw1eF6-OahkK14hsvBZsFp8H&ust=1671464886192000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKCEkozCg_wCFQAAAAAdAAAAABAE" height="350px" width ="350px"></p>
+<p align="Center" ><img src="https://user-images.githubusercontent.com/45563371/113604647-24a58000-9678-11eb-9bb9-4877d8f1674a.gif" height="350px" width ="350px"></p>
 
 
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Nikhil  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
