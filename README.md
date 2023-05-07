@@ -8,9 +8,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a J
 
 - 🔭 I’m currently working on my Skill. 
 - 💻 All of my pojects are available at <a href="https://NikhSin.github.io" rel="nofollow">Portfolio</a> 
-- 🌱 I’m currently learning about Full-stack JAVA Developer Course from Masai School.
-- 💬 Ask me about Java,MySQL,Maven,Spring Boot,AWS,Javascript.... 
-- 📃Know about my experiance <a href="https://drive.google.com/file/d/140LlgIdFmD7SolnQQWhgoWGeSI3xx4ye/view?usp=sharing" rel="nofollow">Resume</a> 
+- 💬 Ask me about Java,MySQL,Javascript.... 
 - 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsnikhil0786@gmail.com)](mailto:itsnikhil0786@gmail.com)
 - ⚡ Fun fact: Success not understood excuses.... ! 
 - ⚽️ I Like to play Football and Cooking.
