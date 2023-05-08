@@ -4,12 +4,12 @@
 <h1 align="Center">  Hi There <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> , I'm Nikhil  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NikhSin-byte" alt="NikhSin-byte" /> </p>
 
-I'm a Computer Science Enthusiast  👨‍💻, Currently in Masai School as a Java backend developer👨‍🎓
+I'm a Computer Science Enthusiast  👨‍💻, Currently in BotexAI Private Limited as a Sharepoint developer👨‍🎓
 
 - 🔭 I’m currently working on my Skill. 
 - 💻 All of my pojects are available at <a href="https://NikhSin.github.io" rel="nofollow">Portfolio</a> 
 - 💬 Ask me about Java,MySQL,Javascript.... 
-- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsnikhil0786@gmail.com)](mailto:itsnikhil0786@gmail.com)
+- 📫 How to reach me: &nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itsnikhil0786@gmail.coom.com)](mailto:itsnikhil0786@gmail.com)
 - ⚡ Fun fact: Success not understood excuses.... ! 
 - ⚽️ I Like to play Football and Cooking.
 
